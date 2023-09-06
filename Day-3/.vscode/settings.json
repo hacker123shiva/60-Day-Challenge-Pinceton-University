@@ -1,0 +1,10 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "d:\\60-Day Challenge\\Jars\\algs4.jar",
+    "d:\\60-Day Challenge\\Jars\\stdlib.jar",
+    "d:\\JavaAdvance\\Jars\\apache-csv.jar",
+    "d:\\JavaAdvance\\Jars\\commons-io-2.11.0.jar",
+    "d:\\JavaAdvance\\Jars\\commons-lang3-3.12.0.jar"
+  ]
+}
